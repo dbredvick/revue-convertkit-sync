@@ -62,7 +62,7 @@ jobs:
 
 We need on of these for each endpoint:
 
-- /api/subapase-to-convertkit
+- /api/supabase-to-convertkit
 - /api/sync-revue-subscribers
 
 ## Warning: no error logging by default
