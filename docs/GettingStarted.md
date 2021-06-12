@@ -6,6 +6,16 @@ First things first, fork this project to your own repo.
 
 Start a new [Supabase project](https://supabase.io/), don't worry — it will be [free](https://supabase.io/pricing) for the volume we'll be using.
 
+We'll need to add a table once your instance has been created.
+
+Name the table **revue_subscribers** with the following columns:
+
+- email (text)
+- first_name (text)
+- last_name (text)
+- created_at (timestampz)
+- convertkit_synced_at (timestampz)
+
 ## Gather your API Keys
 
 You'll need your API keys from:
