@@ -1,6 +1,6 @@
 export default {
   repository: "https://github.com/dbredvick/revue-convertkit-sync", // project repo
-  docsRepository: "https://revue-convertkit-sync.vercel.app/", // docs repo
+  docsRepository: "https://github.com/dbredvick/revue-convertkit-sync", // docs repo
   branch: "main", // branch of docs
   path: "/", // path of docs
   titleSuffix: " – Revue ConvertKit Sync",
