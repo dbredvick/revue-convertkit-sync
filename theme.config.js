@@ -15,7 +15,7 @@ export default {
   logo: (
     <>
       <svg>...</svg>
-      <span>Revue ConvertKit Synnc</span>
+      <span>Revue ConvertKit Sync</span>
     </>
   ),
   head: (
